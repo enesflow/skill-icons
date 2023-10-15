@@ -179,6 +179,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
+|     `jetbrains`    |  <img src="./icons/JetBrains-Dark.svg" width="48">    |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
 |      `julia`       |       <img src="./icons/Julia-Dark.svg" width="48">   |
 |      `jupyter`     |     <img src="./icons/Jupyter-Dark.svg" width="48">   |
