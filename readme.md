@@ -210,6 +210,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
+|     `phoenix`      |    <img src="./icons/Phoenix-Dark.svg" width="48">    |`
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
