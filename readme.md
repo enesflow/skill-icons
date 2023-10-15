@@ -286,6 +286,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+|       `zod`        |      <img src="./icons/Zod-Dark.svg" width="48">      |
 
 ---
 
