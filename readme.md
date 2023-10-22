@@ -210,7 +210,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
-|      `numpy`       |     <img src="./icons/NumPy-Dark.svg" width="48">     |
+|      `numpy`       |     <img src="./icons/Numpy-Dark.svg" width="48">     |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
