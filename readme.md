@@ -190,7 +190,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
-|    `lemonsqueezy`  |  <img src="./icons/LemonSqueezy-Dark.svg" width="48"> |
+|    `lemonsqueezy`  |  <img src="./icons/Lemonsqueezy-Dark.svg" width="48"> |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
